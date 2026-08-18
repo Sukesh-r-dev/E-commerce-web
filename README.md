@@ -1,4 +1,4 @@
-# ✨ LuxeCart | Premium E-Commerce Experience
+# ✨ LuxeCart | E-Commerce Experience
 
 LuxeCart is a lightweight, responsive single-page web application designed to simulate a modern e-commerce storefront. Built using vanilla JavaScript, HTML5, and custom CSS, it features client-side state management and interactive features without requiring a full backend setup.
 
